@@ -1,7 +1,7 @@
 # ![https://github.com/Zafion](https://github.com/Zafion/Zafion/blob/main/Z_minilogo.png) Hola, mi nombre es José Luis Montañana 👋
 ### Desarrollador de aplicaciones multiplataforma.
 
-![https://github.com/Zafion](https://github.com/Zafion/Zafion/blob/main/Banner.png)
+![https://github.com/Zafion](https://github.com/Zafion/Zafion/blob/main/Banne.png)
 
 En octubre de 2021, tuve la oportunidad de redirigir mi carrera profesional hacia este sector, embarcándome en llevar a cabo mi sueño de convertirme en un profesional dentro de la industria del desarrollo de software.
 
