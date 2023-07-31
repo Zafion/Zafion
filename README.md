@@ -9,9 +9,7 @@ Aunque he trabajado principalmente en el sector de la administración logística
 
 En Julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), lo hice en solo tres semestres en lugar de los 4 habituales. Sigo formandome para complementar esta titulación con cursos como el de Python por, la Universidad de Valencia, entre otros.
 
-### [![Proyecto GameShelf](https://github.com/Zafion/GameShelf/blob/main/app/src/main/res/mipmap-mdpi/ic_launcher.png)](https://github.com/Zafion/GameShelf)
-
-
+### [![Proyecto GameShelf](https://github.com/Zafion/GameShelf/blob/main/app/src/main/res/drawable/Icon-36.png)](https://github.com/Zafion/GameShelf) Proyecto GameShelf
 Mi proyecto de final de grado (GameShelf) es una aplicación para dispositivos Android, este proyecto me ha permitido aunar mi pasion por los videojuegos con los conocimientos adquiridos en la gestion de BBDD y la programación. Está desarrollado con Kotlin, el frontend es una interfaz sencilla e intuitiva, permite la consulta de información de videojuegos clásicos (BBDD online con Firestore de Google) y la gestión de una colección propia (BBDD local usando ROOM).
 Este proyecto está disponible para consultar en mi perfil de GitHub.
 
