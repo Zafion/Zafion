@@ -42,7 +42,7 @@ Y alguna más... la formación es continua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_Montanana_Llopis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jose-luis-monta%C3%B1ana-llopis-116941172/)
 
-[![Web](https://img.shields.io/badge/zafion.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://zafion.github.io/)
+[![Sitio web](https://img.shields.io/badge/zafion.github.io-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://zafion.github.io/)
 
 ## Contacto:
 
