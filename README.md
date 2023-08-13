@@ -7,10 +7,9 @@ En octubre de 2021, tuve la oportunidad de redirigir mi carrera profesional haci
 
 Aunque he trabajado principalmente en el sector de la administración logística durante más de 20 años, mi verdadera pasión siempre ha sido el desarrollo de software.
 
-En Julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), lo hice en solo tres semestres en lugar de los 4 habituales. Sigo formandome para complementar esta titulación con cursos como el de Python por, la Universidad de Valencia, entre otros.
+En julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Lo hice en solo tres semestres en lugar de los cuatro habituales. Sigo formándome para complementar esta titulación con cursos como el de Python ofrecido por la Universidad de Valencia, entre otros.
 
-Mi proyecto de final de grado (GameShelf) es una aplicación para dispositivos Android, este proyecto me ha permitido aunar mi pasion por los videojuegos con los conocimientos adquiridos en la gestion de BBDD y la programación. Está desarrollado con Kotlin, el frontend es una interfaz sencilla e intuitiva, permite la consulta de información de videojuegos clásicos (BBDD online con Firestore de Google) y la gestión de una colección propia (BBDD local usando ROOM).
-Este proyecto está disponible para consultar en mi perfil de GitHub, en enlace está disponible despues del siguiente parrafo.
+Mi proyecto de fin de grado (GameShelf) es una aplicación para dispositivos Android. Este proyecto me ha permitido unir mi pasión por los videojuegos con los conocimientos adquiridos en la gestión de bases de datos y la programación. Está desarrollado con Kotlin. El frontend presenta una interfaz sencilla e intuitiva, permitiendo la consulta de información de videojuegos clásicos (base de datos online con Firestore de Google) y la gestión de una colección propia (base de datos local usando ROOM). Este proyecto está disponible para consulta en mi perfil de GitHub; el enlace está disponible después del siguiente párrafo.
 
 Estoy buscando una oportunidad que me permita aplicar mis conocimientos y crecer profesionalmente. Me considero una persona con una gran capacidad de aprendizaje y adaptación a nuevas tecnologías y entornos.
 
@@ -27,6 +26,7 @@ Estoy buscando una oportunidad que me permita aplicar mis conocimientos y crecer
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor==101010)]()
+[![Hibernate](https://img.shields.io/badge/Hibernate-%2300745B.svg?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=101010)]()
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
 
