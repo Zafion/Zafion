@@ -9,6 +9,8 @@ Aunque he trabajado principalmente en el sector de la administración logística
 
 En julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Lo hice en solo tres semestres en lugar de los cuatro habituales. Sigo formándome para complementar esta titulación con cursos como el de Python ofrecido por la Universidad de Valencia, entre otros.
 
+Durante mis prácticas de estudio en [Sales Layer](https://saleslayer.com/es/), participé en la adaptación de dos plugins a la última API de Sales Layer y actualicé su compatibilidad a PHP 8.2. Los plugins eran el de [WooCommerce](https://github.com/saleslayer/Sales_Layer_WooCommerce) y el de [Prestashop](https://github.com/saleslayer/Sales_Layer_Prestashop).
+
 Mi proyecto de fin de grado (GameShelf) es una aplicación para dispositivos Android. Este proyecto me ha permitido unir mi pasión por los videojuegos con los conocimientos adquiridos en la gestión de bases de datos y la programación. Está desarrollado con Kotlin. El frontend presenta una interfaz sencilla e intuitiva, permitiendo la consulta de información de videojuegos clásicos (base de datos online con Firestore de Google) y la gestión de una colección propia (base de datos local usando ROOM). Este proyecto está disponible para consulta en mi perfil de GitHub; el enlace está disponible después del siguiente párrafo.
 
 Estoy buscando una oportunidad que me permita aplicar mis conocimientos y crecer profesionalmente. Me considero una persona con una gran capacidad de aprendizaje y adaptación a nuevas tecnologías y entornos.
