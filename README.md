@@ -7,7 +7,7 @@ En octubre de 2021, tuve la oportunidad de redirigir mi carrera profesional haci
 
 Aunque he trabajado principalmente en el sector de la administración logística durante más de 20 años, mi verdadera pasión siempre ha sido el desarrollo de software.
 
-En julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Lo hice en solo tres semestres en lugar de los cuatro habituales. Sigo formándome para complementar esta titulación con cursos como el de Python ofrecido por la Universidad de Valencia, entre otros.
+En julio de 2023 finalicé mi formación como Técnico Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Lo hice en solo tres semestres en lugar de los cuatro habituales, obteniendo una calificación final de sobresaliente. Sigo formándome para complementar esta titulación con cursos como el de Python ofrecido por la Universidad de Valencia, entre otros.
 
 Durante mis prácticas de estudio en [Sales Layer](https://saleslayer.com/es/), participé en la adaptación de dos plugins a la última API de Sales Layer y actualizar su compatibilidad a PHP 8.2. Los plugins eran el de [WooCommerce](https://github.com/saleslayer/Sales_Layer_WooCommerce) y el de [Prestashop](https://github.com/saleslayer/Sales_Layer_Prestashop).
 
